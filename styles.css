@@ -1,0 +1,85 @@
+
+
+   
+
+        html {
+            height: 100%;
+          }
+          body {
+            margin:0;
+            padding:0;
+            font-family: sans-serif;
+            background: linear-gradient(#031435, #EDEEF0);
+      
+    }
+    input.ee{
+
+    position: relative;
+    top: 10px;
+    left: 90px;
+    height: 25px;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 10px;
+    }
+
+
+
+    h1.ex {
+        text-align: center;
+        font-style: italic;
+        font-style: unset;
+        color: white;
+      
+        font-size: 1.5cm;
+        position: relative;
+        top:10px ;
+     font-family: monospace;
+    
+    }
+    
+       
+
+
+    
+    form {
+        background-color: salmon;
+       text-align: center;
+       height: 40%;
+       width: 30%;
+       top: 20%;
+       position: absolute;
+       left: 36%;
+       line-height: -2px;
+       border-radius: 10px;
+       background-image: linear-gradient(black,white,black);
+
+    }
+    .but{ position: relative;
+        display: inline-block;
+        padding: 20px 10px;
+        color: grey;
+        font-size: 16px;
+        text-decoration: none;
+        text-transform: uppercase;
+        overflow: hidden;
+        transition: .5s;
+        margin-top: 3px;
+        letter-spacing: 4px;
+    }
+
+    .error {
+  color: red;
+  font-size: 24px;
+}
+.apple {
+
+   position: relative;
+   top: 35%;
+   font-size: x-large;
+   line-height: -2px;
+}
+
+
